@@ -1,3 +1,6 @@
+#thirtydaysofcode
+Day 1 - Command line dictionary
+
 Dictionary from Udemy training
 
 Takes user input and compares it to a JSON dictionary
